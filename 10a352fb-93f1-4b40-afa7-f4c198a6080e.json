@@ -1,0 +1,6158 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "StatusCake PageSpeed",
+      "version": "3.1.0",
+      "comment": "Tested by server 'tomas-testing' - Target: https://mncenterforms.com/"
+    },
+    "pages": [
+      {
+        "id": "page_1_47975765943636506",
+        "title": "https://mncenterforms.com/",
+        "startedDateTime": "2024-02-16T11:24:31.434Z",
+        "pageTimings": {
+          "onContentLoad": 2282.460000038147,
+          "onLoad": 2518.2680000066757
+        }
+      }
+    ],
+    "entries": [
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.434Z",
+        "time": 315.0840000016615,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "Upgrade-Insecure-Requests",
+              "value": "1"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cb8bdc6776e-LHR"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:31 GMT"
+            },
+            {
+              "name": "last-modified",
+              "value": "Fri, 16 Feb 2024 11:17:53 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=nl%2BXMtXYhHZMcYciy1nskn1ZBoz99e0jB1vpX97WBuJ%2Fs4OzXRmk5Wf0b3wbxY97wq9VvwVClwh2e0Mhr1%2B9GBaLUM21kyO4Gmw9G5p%2FhscQXOmyatOodXaqi0k8bTgqSqraLg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 8676,
+          "content": {
+            "size": 38827,
+            "mimeType": "text/html"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 4.184999961934984,
+          "dns": 0.008000000000000007,
+          "connect": 31.636999999999997,
+          "send": 0.14700000000000557,
+          "wait": 277.498,
+          "receive": 1.6090000281110406,
+          "ssl": 18.508000000000003
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "other"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "document"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.755Z",
+        "time": 308.0429999390617,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/plugins/sym-video-hero/src/video-style.css?ver=6.4.3",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ver",
+              "value": "6.4.3"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:28 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d028-35d\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=XGc7KJgwG3RfDBcM30%2Bdn3mjfLacewnduPvH%2BTmqbQBEkb8GzItwHg8DssctuhsaVw5cJKjuMRbwULgWX3w5RJmMEa4BBJBi%2BBar6oIByHworVynv2S0NCNUSiWtmGrKjBd6yw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba882e776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 672,
+          "content": {
+            "size": 861,
+            "mimeType": "text/css"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 10.387999979548155,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.5910000000000002,
+          "wait": 295.99199999999996,
+          "receive": 1.0720000136643648,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 28,
+          "columnNumber": 176
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "stylesheet"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.755Z",
+        "time": 288.6080000316724,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/style.css",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:23 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d023-10636\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=hhVgOfLVo8eJkZYzXKTCgSxTcoF0gVFkwsjIwqGCaAUiuIGWQ3zo2UcpUukQvkXhCMdngqTVGX%2FWMAoNJOdOfGv40M5i08IBeP5ewV2gVMNNsevyb%2FnFc%2BkXn%2F55GoIHKm5%2BsQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba8831776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 11680,
+          "content": {
+            "size": 67126,
+            "mimeType": "text/css"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 10.173999963067471,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.54,
+          "wait": 275.918,
+          "receive": 1.9760000286623836,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 29,
+          "columnNumber": 150
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "stylesheet"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.755Z",
+        "time": 292.7559999516234,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/css/font-awesome-five/all.min.css",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:23 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d023-daa0\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=UzIuuNT6fIZJBgR2Jlpg8V3jfMfD3T7Ubg2kAjDD5qjrIzUZ7lQdlpj2WkU2giOg4gX%2FY8QaRVdwZsNMQW2lQek%2BU9gHsKZI8F%2BvT8yeJB%2Bfq%2Fy96IJ8kwbxfalxQ8p8No9XoA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba8832776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 12498,
+          "content": {
+            "size": 55968,
+            "mimeType": "text/css"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 10.025000012993813,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.492,
+          "wait": 280.92699999999996,
+          "receive": 1.3119999784976244,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 30,
+          "columnNumber": 182
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "stylesheet"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.756Z",
+        "time": 465.176000026986,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/css/font-awesome-four/font-awesome.min.css",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:23 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d023-7918\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=rwwPnSpHjMEHD9qHc4ouNU0tL73E8h2uCsJNQYGPtlaFwnRYbYnOmK%2BtWzOHItmtHiLvLHgWztP7oBeg1yYlY0M072RY5t88sqDpT40Fi1d9PpHL09R2N4Nl6W9gMy0AqmNxsQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba8834776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 7262,
+          "content": {
+            "size": 31000,
+            "mimeType": "text/css"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 9.910000087961555,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.46199999999999974,
+          "wait": 453.168,
+          "receive": 1.635999884456396,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 31,
+          "columnNumber": 191
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "stylesheet"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.756Z",
+        "time": 292.6079999888316,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ver",
+              "value": "3.7.1"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 06 Dec 2023 14:17:15 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6570826b-15601\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=WhfQXsgek043h%2BNvSJqK0hmj6TYZv95IeQThfWKQYTqtYT%2BCxXQgN7FwmNy219b8Uu9PRZpdg9wNtUt2iQsnonxOLKJG%2FlyXQcrK0B%2F9MYZShAp2GhlRPNFQ%2BqYMTr0lAjXx0Q%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba8836776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 31753,
+          "content": {
+            "size": 87553,
+            "mimeType": "application/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 9.787000045493246,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.41700000000000004,
+          "wait": 277.44000000000005,
+          "receive": 4.963999963365495,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 32,
+          "columnNumber": 129
+        },
+        "_priority": "High",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.756Z",
+        "time": 308.54900006670505,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ver",
+              "value": "3.4.1"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:22 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d022-3509\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=nHFaFULRl59eQzwzoy78r3uJRerMbmwTDSqw1yYKsEqSS11y5yq6TzDarq%2Bm0qmYognMtYoi0nX%2BVkiNtOKvLn4oe6oMdFBPIr8bGjN%2Bl1PV4px%2F%2BrGdNxlgy1K2tDLrJYG%2BDQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba8837776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 5382,
+          "content": {
+            "size": 13577,
+            "mimeType": "application/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 9.712999964796007,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.381,
+          "wait": 297.283,
+          "receive": 1.1720000766217709,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 33,
+          "columnNumber": 140
+        },
+        "_priority": "High",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.756Z",
+        "time": 290.6589999329299,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/js/dist/blue-local-webfonts.js?ver=3.3.1",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ver",
+              "value": "3.3.1"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:23 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d023-472c\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=nSw96N1GOK5QJgBENOdyUEPqGEXZsA3eo7DVGSJy9Q2J6B5OwQel0pHmWZK%2Bxq%2FLcyXVcTDC%2B8TOG1Nh8JtiqXlbZSfRp4cCOoamiCUh8ZmUvRG%2FHschtp1KH2T9cbXEs%2FRDjQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba8839776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 7262,
+          "content": {
+            "size": 18220,
+            "mimeType": "application/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 9.627999903723598,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.353,
+          "wait": 279.477,
+          "receive": 1.201000064611435,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 39,
+          "columnNumber": 163
+        },
+        "_priority": "High",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.756Z",
+        "time": 281.565000070259,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/uploads/2022/09/MN-Center-for-MS-Logo.png",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:24 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d024-428d\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=mko4hsZpE9zg3MqYAxOlihhywtv0ukG%2F4qDCF%2Bh%2FP8M1hPj1OJlxksi0N%2BXoOU74ZmAiHG8LqPOgfDr5TNpksHXVZ26LWlCHiQoIxBVn%2BhCZjUM%2FzZS75sOh%2FF9srh6jDsmWJw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba883c776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "17037"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 17362,
+          "content": {
+            "size": 17037,
+            "mimeType": "image/png"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 9.478000063627958,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.32100000000000006,
+          "wait": 270.505,
+          "receive": 1.2610000558197498,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 334,
+          "columnNumber": 173
+        },
+        "_priority": "Medium",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.756Z",
+        "time": 305.3640000289306,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/img/font-awesome/search.svg",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:23 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d023-1c6\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=67%2FVafOYEVW740ueoYB90omM5arKHRm%2Ba4glgt%2Btc4ITu%2BBLb%2BOJkXp7tLerh6nsV3rA0BCxfFGILyaWhWsxSn%2Fm3pILb0g0S18a5kUyUZ%2FbwVAhDzqFVYUR2%2FdmCAl19wiCuA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/svg+xml"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba883d776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 553,
+          "content": {
+            "size": 454,
+            "mimeType": "image/svg+xml"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 9.344999967858195,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.281,
+          "wait": 294.62899999999996,
+          "receive": 1.1090000625699759,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 358,
+          "columnNumber": 152
+        },
+        "_priority": "Medium",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.756Z",
+        "time": 279.19199992902577,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/uploads/2022/09/plymouth-3.jpeg",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:24 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d024-2a504\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=u1VBqo1Uhz3NgHHW%2FjSIpeJG9aH7mAY8wTprScQg3ZCq%2FHrh8cnBA0t4diKOL%2F3GF5dU73necz4Lfz6mRlNEvDKDGsUFOfoP5REyaLnKtjzLneK0SxPl4CcLdp8sAqVr3b31Dw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/jpeg"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba883a776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "173316"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 173893,
+          "content": {
+            "size": 173316,
+            "mimeType": "image/jpeg"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 9.233000014565885,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.246,
+          "wait": 264.848,
+          "receive": 4.8649999080225825,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "21",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 441,
+          "columnNumber": 465
+        },
+        "_priority": "High",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 577.2509999806061,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/uploads/2022/09/Neurological-Evaluation-150x150.png",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:24 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d024-10b8\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=PPlr2cDUfbfSQbjN728Kw%2BWqX1vMnFdBEdMIXnCidPGytp00Yn%2BDNOl%2BfT%2BxwuHxiub0kZDjH5DBIX3HxgYlY4SmrEX146FQkIoaNCco7gZsJmYBEUCedtTTcraRBFXSIAfbLg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cbc69416373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "4280"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 4777,
+          "content": {
+            "size": 4280,
+            "mimeType": "image/png"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 303.6599999759346,
+          "dns": 0,
+          "connect": 4.4,
+          "send": 0.20599999999999952,
+          "wait": 267.741,
+          "receive": 1.2440000427886844,
+          "ssl": 0
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 461,
+          "columnNumber": 693
+        },
+        "_priority": "Medium",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 627.8910000110045,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/uploads/2022/09/Treatment-Plan2-150x150.png",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:24 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d024-d54\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=g4%2BSyqu6h76NTCcmn1P7t7CL6A%2BHtzK7FOseInESsGInj6ZztsK5PpKYPH1%2BNSiEIr8cHCxzU7O8S3zsDr5ADTAYSP7kcmOgHnqJdLrwJrq6PWe9aommhjnHXFGcf5jnij24mQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cbc99906373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "3412"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 3870,
+          "content": {
+            "size": 3412,
+            "mimeType": "image/png"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 342.2990000035241,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.13299999999999998,
+          "wait": 284.573,
+          "receive": 0.8859999943524599,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 464,
+          "columnNumber": 667
+        },
+        "_priority": "Medium",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 1415.3320000041276,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/uploads/2022/09/Educational-Programs-150x150.png",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:24 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d024-1782\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=HgzENU9BATzxAHXbLjqRmt5%2B2iXaLCkaMOF%2FMQCXM%2F7licaF%2FdQtHkLuUccqchpg9AvdLojERj%2FGbMugehy%2FiV3Nnu6B%2BlaS6fimwWfhBvQWZ0a6ksIJ6XG8vU08zsWCUUcj5g%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cc169136373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "6018"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 6482,
+          "content": {
+            "size": 6018,
+            "mimeType": "image/png"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 1105.9190000703932,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.10199999999999998,
+          "wait": 308.05,
+          "receive": 1.260999939404428,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 467,
+          "columnNumber": 678
+        },
+        "_priority": "Low",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 1515.3709999285638,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/uploads/2022/09/Clinical-Research-150x150.png",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:24 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d024-1ce2\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=SzSZ1vRPcywmUDnrKJWD6SExVT%2FKUGlV94j%2BXW4tv2gyixJl%2B1dM1qORKmFrWVWRzWtytxUdEcGbDzPXmhkEL75KeAfs27m8DQBoFspW5jxa5HT7W8IFJ1PxDG1PP4%2FBWxV5hg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cc23acb6373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "7394"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 7855,
+          "content": {
+            "size": 7394,
+            "mimeType": "image/png"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 1239.6449999219178,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.10200000000000004,
+          "wait": 274.293,
+          "receive": 1.3310000067576766,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 471,
+          "columnNumber": 663
+        },
+        "_priority": "Low",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 1573.62399995327,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/uploads/2022/09/comfort-infusion-therapy-300x180.png",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:24 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d024-15783\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=bQPJsBKl7lg7yQUbN1UuA15FCEJ4JTHoSwef1z3S4eS%2F0CX0wLZZ11JNNcuMO%2FTBUZlhQhWulx%2BK3u8ou24FklBbGLJjJB0QmsiGDmKsRawzPZxM4x7MyZMl%2Bnw69W2zWS9zmQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cc27b1c6373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "87939"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 88417,
+          "content": {
+            "size": 87939,
+            "mimeType": "image/png"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 1282.2950000078529,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.14499999999999996,
+          "wait": 287.587,
+          "receive": 3.596999915316701,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 491,
+          "columnNumber": 491
+        },
+        "_priority": "Low",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 864.9730000179261,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/plugins/sym-video-hero/src/jquery.youtubebackground.js",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:28 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d028-242e\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=GYj%2B0aitsgJj0ahIUbFJNIbwWarsuOYyDOn1mUp8yzJipcvzP7yoOt%2B8vrv5gv7acgqLxM5g3xw%2BXGAUnx9zmu6PMcaZs5ZDAksEcB%2BQb3f%2BmseAOq4nuFrUyZdliqKeCxA0sg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cbd8acb6373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 3213,
+          "content": {
+            "size": 9262,
+            "mimeType": "application/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 489.2330000161901,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.16200000000000014,
+          "wait": 372.113,
+          "receive": 3.4649999579414725,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 569,
+          "columnNumber": 151
+        },
+        "_priority": "Medium",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 887.618999928236,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/js/dist/blue-local-front.js?ver=3.3.1",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ver",
+              "value": "3.3.1"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:23 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d023-253a0\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Y7Jq6qwG5LNxzRyXp6v4te5sT%2BCDIx33G7Y0ptR7Hv1xN3d0fQbl2C1EgbFJVqf81jGpNOzYrC%2FowvrtjkcC%2FxV5iDgVzCOI%2Bqi78rvhQsM%2Bv3t6VoHrjLo8NzVHINQEgQTuCA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cbdbb0e6373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 47877,
+          "content": {
+            "size": 152480,
+            "mimeType": "application/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 521.184999929063,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.131,
+          "wait": 341.918,
+          "receive": 24.384999996982515,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 576,
+          "columnNumber": 157
+        },
+        "_priority": "Medium",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 1103.3379998989403,
+        "request": {
+          "method": "GET",
+          "url": "https://www.google.com/recaptcha/api.js?render=6LdDLkQiAAAAAEpYXtHtlac6CWSW3peGAq4VPoS2&ver=3.0",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "render",
+              "value": "6LdDLkQiAAAAAEpYXtHtlac6CWSW3peGAq4VPoS2"
+            },
+            {
+              "name": "ver",
+              "value": "3.0"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "content-security-policy",
+              "value": "frame-ancestors 'self'"
+            },
+            {
+              "name": "server",
+              "value": "GSE"
+            },
+            {
+              "name": "x-frame-options",
+              "value": "SAMEORIGIN"
+            },
+            {
+              "name": "content-type",
+              "value": "text/javascript; charset=utf-8"
+            },
+            {
+              "name": "cache-control",
+              "value": "private, max-age=300"
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "1; mode=block"
+            },
+            {
+              "name": "expires",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 866,
+          "content": {
+            "size": 884,
+            "mimeType": "text/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 890.3959999003335,
+          "dns": 0.009000000000000341,
+          "connect": 124.659,
+          "send": 0.10699999999999932,
+          "wait": 86.88999999999999,
+          "receive": 1.276999944821,
+          "ssl": 56.31299999999999
+        },
+        "serverIPAddress": "142.250.179.228",
+        "connection": "219",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 577,
+          "columnNumber": 162
+        },
+        "_priority": "Medium",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 1238.842000020668,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ver",
+              "value": "3.1.2"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:22 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d022-1feb\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=I3cxGcOzxlUAi6%2Bp%2FOvLGFRtWNzFhG2pFg83jDRyYurQ0U8Zm67CXR3RtGeK0gHIyE5F0ExKwYKdDO9JDi50R4tntlYZy%2B6tbjhSzHKI5%2Br7wexKSqEpfgLsh46jCs3e27CjYQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cc00ea26373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 2958,
+          "content": {
+            "size": 8171,
+            "mimeType": "application/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 890.4960000751987,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.09100000000000008,
+          "wait": 325.456,
+          "receive": 22.798999911174178,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 578,
+          "columnNumber": 151
+        },
+        "_priority": "Medium",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 1322.7000000188127,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ver",
+              "value": "0.14.0"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 06 Dec 2023 14:17:15 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6570826b-19e1\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=iLNGJrpLd4%2FF6PnBFNUQ1R7rbmmtrrBr2AH1OAIUVUNOQS3WxvBhwKcNTFiOMrVkReD9WP%2BMaWsGY317Qb6pBA4Y4YF1K3aQzVBQkwLqnnpVh5jkdv1vckqfZHiuHt14QbgR2g%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cc108946373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 2995,
+          "content": {
+            "size": 6625,
+            "mimeType": "application/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 1050.901000098221,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.09699999999999998,
+          "wait": 268.427,
+          "receive": 3.274999908171594,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 579,
+          "columnNumber": 156
+        },
+        "_priority": "Medium",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 1323.352999985218,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ver",
+              "value": "3.15.0"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 06 Dec 2023 14:17:15 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6570826b-1c1b7\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=9hq8QhMOgwgEYYt0qemNdO5wwkeayE1DOAg6w%2FZBBq7SB2MFr6Fj4WHiCjGHZIidiYtJmFED5lHDOKS7HTm3rEOkayrhS7%2FLgMrWyLD0zJQfgMnw3ogvm%2F5V1dx5qpfYCAJd9w%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cc108966373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 36830,
+          "content": {
+            "size": 115127,
+            "mimeType": "application/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 1050.9730000273362,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.050000000000000044,
+          "wait": 269.592,
+          "receive": 2.73800001014024,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 580,
+          "columnNumber": 140
+        },
+        "_priority": "Medium",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:31.757Z",
+        "time": 1322.4090000148863,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.7",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ver",
+              "value": "5.8.7"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Mon, 05 Feb 2024 13:57:31 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"65c0e94b-3a6\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=ObSAv2GhDbt0PINnqNBq0T2G0VCkfHN5HIdkAiljyG34INXIrQvA7tpXyGXe%2F6LeeIP6r6HxO%2FWGYlzSsAU3mhrXF3AFYzEdWwLgF%2FTAsN%2FvBLuqEMsHy8QagqQlckNyn%2BbffQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cc108976373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 919,
+          "content": {
+            "size": 934,
+            "mimeType": "application/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 1050.9969999620243,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.06900000000000006,
+          "wait": 266.889,
+          "receive": 4.454000038094819,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 586,
+          "columnNumber": 158
+        },
+        "_priority": "Medium",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.240Z",
+        "time": 37.72200003731996,
+        "request": {
+          "method": "GET",
+          "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i%7CMuli:400,400i,700,700i",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "family",
+              "value": "Source Sans Pro:400,400i,700,700i|Muli:400,400i,700,700i"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "server",
+              "value": "ESF"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin-allow-popups"
+            },
+            {
+              "name": "x-frame-options",
+              "value": "SAMEORIGIN"
+            },
+            {
+              "name": "content-type",
+              "value": "text/css; charset=utf-8"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "private, max-age=86400"
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            },
+            {
+              "name": "expires",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 647,
+          "content": {
+            "size": 1600,
+            "mimeType": "text/css"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 9.437000048615038,
+          "dns": 0.009999999999999787,
+          "connect": 16.689,
+          "send": 0.1479999999999997,
+          "wait": 10.147000000000002,
+          "receive": 1.2909999350085855,
+          "ssl": 10.223
+        },
+        "serverIPAddress": "142.250.200.10",
+        "connection": "124",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "f",
+                "scriptId": "4",
+                "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/js/dist/blue-local-webfonts.js?ver=3.3.1",
+                "lineNumber": 0,
+                "columnNumber": 6826
+              }
+            ]
+          }
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "stylesheet"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.253Z",
+        "time": 551.3049999717623,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/uploads/2022/09/MN-Center-for-MS-Website-Header-Photo_Updated.png",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:24 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d024-7bc30\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=e%2F9wGoWsEIJyYBPMTMBr1447zB87SoosQup%2Bqp2sqAQYzHyEBDav9VZ0%2Fe7PesA7wiRTaYjbKMjdRZIByrN9kxyLRrCXeJ7cmKUwmWfOL6xiUdHevBiuQ5vSBXdRO7%2BmwYI9cw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cbdeb506373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "506928"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 507538,
+          "content": {
+            "size": 506928,
+            "mimeType": "image/png"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 50.15700000425428,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.14300000000000002,
+          "wait": 341.254,
+          "receive": 159.7509999992326,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 569,
+          "columnNumber": 160
+        },
+        "_priority": "Low",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.255Z",
+        "time": 606.4550000010058,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/css/webfonts/fa-solid-900.woff2",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/wp-content/themes/blue-local-theme/css/font-awesome-five/all.min.css"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:23 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d023-126b0\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=H9YGxwubMl1W%2FI%2Bw7n4xXZU48x0UKHjrzBj%2BNMFueDe%2BM%2FTOs%2FbV3krY5M1D4n7K7NkJ%2BIIesi5HCcWRWRaFguSv03XOnQRsBqt3ZLJUQrSyIP1J28Ya9FCayMWRstxklrbCig%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "font/woff2"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cbdfb666373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "75440"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 75937,
+          "content": {
+            "size": 75440,
+            "mimeType": "font/woff2"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 56.83700005546212,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.129,
+          "wait": 492.896,
+          "receive": 56.59299995750189,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/css/font-awesome-five/all.min.css"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "font"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.305Z",
+        "time": 1024.3440000340343,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/uploads/2022/09/MN-Center-for-MS-Logo_White_Small.png",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:24 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d024-da1\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=JCE7ToW0EuklEafiwV7kiHO27vbfztHPYLjt0tLvYrdmWFcDHNSqNRPIVGWf2s4LBZsnonPDPXwCEsrbwF0cBQB5RUgsjqRZKxaI1ubBV5fm%2FvGOxKQi%2B4zEo6a197mjF5dFBQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cc27b1f6373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "3489"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 3945,
+          "content": {
+            "size": 3489,
+            "mimeType": "image/png"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 734.3790000202507,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.061,
+          "wait": 286.287,
+          "receive": 3.6170000676065683,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 569,
+          "columnNumber": 160
+        },
+        "_priority": "Low",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.305Z",
+        "time": 1023.9450000226498,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/uploads/2020/06/infusion-associates-logo.png",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:24 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "\"6554d024-1a8a\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Ljzjvnp%2B4XXNEUDVZnYz8Cxz8vKHoWEoZwMyrH40oPHPxTZ4S%2BlzM7fzv2r7Qt9S2uGXDZu7olLFCnvY9vtr4Q4swbgyG6NzPQgJnH%2FJp0qD%2BlawKHy3OPJW%2Fu8bTV1S%2BiaUjg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "image/png"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cc27b226373-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "6794"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 7259,
+          "content": {
+            "size": 6794,
+            "mimeType": "image/png"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 734.2639999736995,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.06099999999999994,
+          "wait": 284.94,
+          "receive": 4.680000012740493,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "parser",
+          "url": "https://mncenterforms.com/",
+          "lineNumber": 569,
+          "columnNumber": 160
+        },
+        "_priority": "Low",
+        "_resourceType": "image"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.314Z",
+        "time": 78.43200000934303,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-length",
+              "value": "19166"
+            },
+            {
+              "name": "content-security-policy-report-only",
+              "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin; report-to=\"apps-themes\""
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Sat, 15 Feb 2025 11:24:32 GMT"
+            },
+            {
+              "name": "last-modified",
+              "value": "Thu, 01 Jun 2023 22:52:58 GMT"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+            },
+            {
+              "name": "server",
+              "value": "sffe"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "font/ttf"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 6.896,
+          "dns": 0.004000000000000448,
+          "connect": 23.945,
+          "send": 0.6129999999999995,
+          "wait": 47.051,
+          "receive": 2.271000063046813,
+          "ssl": 9.942
+        },
+        "serverIPAddress": "216.58.213.3",
+        "connection": "192",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf",
+          "requestId": "597.79"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.314Z",
+        "time": 82.47799996752292,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-length",
+              "value": "18298"
+            },
+            {
+              "name": "content-security-policy-report-only",
+              "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin; report-to=\"apps-themes\""
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Sat, 15 Feb 2025 11:24:32 GMT"
+            },
+            {
+              "name": "last-modified",
+              "value": "Thu, 01 Jun 2023 22:52:58 GMT"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+            },
+            {
+              "name": "server",
+              "value": "sffe"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "font/ttf"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 30.894,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.2959999999999994,
+          "wait": 52.235,
+          "receive": 1.180000021122396,
+          "ssl": -1
+        },
+        "serverIPAddress": "216.58.213.3",
+        "connection": "192",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf",
+          "requestId": "597.77"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.314Z",
+        "time": 81.99999993667006,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-length",
+              "value": "19211"
+            },
+            {
+              "name": "content-security-policy-report-only",
+              "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin; report-to=\"apps-themes\""
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Sat, 15 Feb 2025 11:24:32 GMT"
+            },
+            {
+              "name": "last-modified",
+              "value": "Thu, 01 Jun 2023 22:52:58 GMT"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+            },
+            {
+              "name": "server",
+              "value": "sffe"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "font/ttf"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 30.554,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.26200000000000045,
+          "wait": 50.741,
+          "receive": 2.2299999836832285,
+          "ssl": -1
+        },
+        "serverIPAddress": "216.58.213.3",
+        "connection": "192",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf",
+          "requestId": "597.80"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.314Z",
+        "time": 84.43200006149709,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18E.ttf",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-length",
+              "value": "18206"
+            },
+            {
+              "name": "content-security-policy-report-only",
+              "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin; report-to=\"apps-themes\""
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Sat, 15 Feb 2025 11:24:32 GMT"
+            },
+            {
+              "name": "last-modified",
+              "value": "Thu, 01 Jun 2023 22:52:57 GMT"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+            },
+            {
+              "name": "server",
+              "value": "sffe"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "font/ttf"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 30.486,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.14000000000000057,
+          "wait": 54.282,
+          "receive": 1.0930000571534038,
+          "ssl": -1
+        },
+        "serverIPAddress": "216.58.213.3",
+        "connection": "192",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18E.ttf",
+          "requestId": "597.78"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.314Z",
+        "time": 68.76600009854883,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-length",
+              "value": "23350"
+            },
+            {
+              "name": "content-security-policy-report-only",
+              "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin; report-to=\"apps-themes\""
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Sat, 15 Feb 2025 11:24:32 GMT"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 13 Sep 2023 22:41:59 GMT"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+            },
+            {
+              "name": "server",
+              "value": "sffe"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "font/ttf"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 29.908,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.4569999999999972,
+          "wait": 37.766000000000005,
+          "receive": 2.0260000601410866,
+          "ssl": -1
+        },
+        "serverIPAddress": "216.58.213.3",
+        "connection": "192",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf",
+          "requestId": "597.75"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.314Z",
+        "time": 303.4270000644028,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz4eqVxg.ttf",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-length",
+              "value": "23957"
+            },
+            {
+              "name": "content-security-policy-report-only",
+              "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin; report-to=\"apps-themes\""
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Sat, 15 Feb 2025 11:24:32 GMT"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 13 Sep 2023 22:53:18 GMT"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+            },
+            {
+              "name": "server",
+              "value": "sffe"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "font/ttf"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 29.537,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.3930000000000007,
+          "wait": 57.305,
+          "receive": 217.16500003822148,
+          "ssl": -1
+        },
+        "serverIPAddress": "216.58.213.3",
+        "connection": "192",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz4eqVxg.ttf",
+          "requestId": "597.73"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.314Z",
+        "time": 78.719999990426,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-length",
+              "value": "23446"
+            },
+            {
+              "name": "content-security-policy-report-only",
+              "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin; report-to=\"apps-themes\""
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Sat, 15 Feb 2025 11:24:32 GMT"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 13 Sep 2023 22:41:59 GMT"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+            },
+            {
+              "name": "server",
+              "value": "sffe"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "font/ttf"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 29.365,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.35800000000000054,
+          "wait": 48.783,
+          "receive": 0.9969999082386494,
+          "ssl": -1
+        },
+        "serverIPAddress": "216.58.213.3",
+        "connection": "192",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf",
+          "requestId": "597.76"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.314Z",
+        "time": 84.47000000160187,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG03Z04eqVxg.ttf",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-length",
+              "value": "24069"
+            },
+            {
+              "name": "content-security-policy-report-only",
+              "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes"
+            },
+            {
+              "name": "content-type",
+              "value": "font/ttf"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin; report-to=\"apps-themes\""
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Sat, 15 Feb 2025 11:24:32 GMT"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 13 Sep 2023 22:53:16 GMT"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/apps-themes\"}]}"
+            },
+            {
+              "name": "server",
+              "value": "sffe"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "font/ttf"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 29.473,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.09800000000000253,
+          "wait": 54.679,
+          "receive": 0.8399999933317304,
+          "ssl": -1
+        },
+        "serverIPAddress": "216.58.213.3",
+        "connection": "192",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG03Z04eqVxg.ttf",
+          "requestId": "597.74"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.665Z",
+        "time": 457.93600007891655,
+        "request": {
+          "method": "GET",
+          "url": "https://connect.facebook.net/en_US/sdk.js",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "permissions-policy-report-only",
+              "value": "clipboard-read=(), clipboard-write=(), encrypted-media=(), fullscreen=(), picture-in-picture=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+              "name": "strict-transport-security",
+              "value": "max-age=31536000; preload; includeSubDomains"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "content-md5",
+              "value": "2Dfvkr5i6elBNQacOHd+RA=="
+            },
+            {
+              "name": "document-policy",
+              "value": "force-load-at-top"
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "content-length",
+              "value": "1686"
+            },
+            {
+              "name": "reporting-endpoints",
+              "value": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", coep_report=\"https://www.facebook.com/browser_reporting/coep/?minimize=0\", permissions_policy=\"https://www.facebook.com/ajax/browser_error_reports/\""
+            },
+            {
+              "name": "x-fb-debug",
+              "value": "D7w18mHXzB7KF0TbyL4o7PH0NNRx11xxVrGcq8pngzeySo937DRagRxkSbp63F/EJyZhtOQUPQbxmyCe8OLHxw=="
+            },
+            {
+              "name": "cross-origin-embedder-policy-report-only",
+              "value": "require-corp;report-to=\"coep_report\""
+            },
+            {
+              "name": "x-fb-content-md5",
+              "value": "a69503344c1ee639efd3e17644b0ac45"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin-allow-popups;report-to=\"coop_report\""
+            },
+            {
+              "name": "etag",
+              "value": "\"5c99f74bd7bb6f96f18b8a0384bf8149\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coep\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+              "name": "content-type",
+              "value": "application/x-javascript; charset=utf-8"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-FB-Content-MD5"
+            },
+            {
+              "name": "cache-control",
+              "value": "public,max-age=1200,stale-while-revalidate=3600"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "accelerometer=(), ambient-light-sensor=(), autoplay=(), bluetooth=(), camera=(), display-capture=(), encrypted-media=(), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+              "name": "x-frame-options",
+              "value": "DENY"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "expires",
+              "value": "Fri, 16 Feb 2024 11:25:19 GMT"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 3415,
+          "content": {
+            "size": 3093,
+            "mimeType": "application/x-javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 435.151000112772,
+          "dns": 0.018000000000000682,
+          "connect": 16.089,
+          "send": 0.08899999999999864,
+          "wait": 4.759,
+          "receive": 1.829999964684248,
+          "ssl": 8.469999999999999
+        },
+        "serverIPAddress": "163.70.151.21",
+        "connection": "290",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "",
+                "scriptId": "10",
+                "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/js/dist/blue-local-front.js?ver=3.3.1",
+                "lineNumber": 0,
+                "columnNumber": 10352
+              }
+            ]
+          }
+        },
+        "_priority": "Low",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.665Z",
+        "time": 457.5189999304712,
+        "request": {
+          "method": "GET",
+          "url": "https://platform.twitter.com/widgets.js",
+          "httpVersion": "http/1.1",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": 180,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Age",
+              "value": "1060"
+            },
+            {
+              "name": "x-amz-server-side-encryption",
+              "value": "AES256"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "P3P",
+              "value": "CP=\"CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV INT\""
+            },
+            {
+              "name": "Server-Timing",
+              "value": "x-cache;desc= HIT,x-tw-cdn;desc=VZ"
+            },
+            {
+              "name": "Content-Length",
+              "value": "27597"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 11 Dec 2023 17:20:28 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "ECS (lhd/358E)"
+            },
+            {
+              "name": "Etag",
+              "value": "\"824beb891744db98ccbd3a456e59e0f7+gzip\""
+            },
+            {
+              "name": "Access-Control-Max-Age",
+              "value": "3000"
+            },
+            {
+              "name": "Access-Control-Allow-Methods",
+              "value": "GET"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/javascript; charset=utf-8"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "x-tw-cdn",
+              "value": "VZ"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "public, max-age=1800"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": 649,
+          "bodySize": 27597,
+          "_transferSize": 28246,
+          "content": {
+            "size": 93065,
+            "mimeType": "application/javascript",
+            "compression": 65468
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 434.4099999201298,
+          "dns": 0.004999999999999005,
+          "connect": 15.868999999999996,
+          "send": 0.060000000000002274,
+          "wait": 2.6000000000000014,
+          "receive": 4.575000028125942,
+          "ssl": 13.346999999999998
+        },
+        "serverIPAddress": "192.229.233.25",
+        "connection": "292",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "",
+                "scriptId": "10",
+                "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/js/dist/blue-local-front.js?ver=3.3.1",
+                "lineNumber": 0,
+                "columnNumber": 10764
+              }
+            ]
+          }
+        },
+        "_priority": "Low",
+        "_resourceType": "script"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.855Z",
+        "time": 12.44399999268353,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/plugins/sym-video-hero/src/video-style.css?ver=6.4.3",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "ver",
+              "value": "6.4.3"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:28 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d028-35d\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=XGc7KJgwG3RfDBcM30%2Bdn3mjfLacewnduPvH%2BTmqbQBEkb8GzItwHg8DssctuhsaVw5cJKjuMRbwULgWX3w5RJmMEa4BBJBi%2BBar6oIByHworVynv2S0NCNUSiWtmGrKjBd6yw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba882e776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 861,
+            "mimeType": "text/css"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": true,
+        "timings": {
+          "blocked": 5.574000046342611,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 2.072,
+          "receive": 4.797999979928136,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "link",
+                "scriptId": "10",
+                "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/js/dist/blue-local-front.js?ver=3.3.1",
+                "lineNumber": 5,
+                "columnNumber": 68376
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "xhr"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.856Z",
+        "time": 12.213999987579882,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/style.css",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:23 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d023-10636\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=hhVgOfLVo8eJkZYzXKTCgSxTcoF0gVFkwsjIwqGCaAUiuIGWQ3zo2UcpUukQvkXhCMdngqTVGX%2FWMAoNJOdOfGv40M5i08IBeP5ewV2gVMNNsevyb%2FnFc%2BkXn%2F55GoIHKm5%2BsQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba8831776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 67126,
+            "mimeType": "text/css"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": true,
+        "timings": {
+          "blocked": 5.1860000838637355,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 2.927,
+          "receive": 4.100999911315739,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "link",
+                "scriptId": "10",
+                "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/js/dist/blue-local-front.js?ver=3.3.1",
+                "lineNumber": 5,
+                "columnNumber": 68376
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "xhr"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.856Z",
+        "time": 11.8410000577569,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/css/font-awesome-five/all.min.css",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:23 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d023-daa0\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=UzIuuNT6fIZJBgR2Jlpg8V3jfMfD3T7Ubg2kAjDD5qjrIzUZ7lQdlpj2WkU2giOg4gX%2FY8QaRVdwZsNMQW2lQek%2BU9gHsKZI8F%2BvT8yeJB%2Bfq%2Fy96IJ8kwbxfalxQ8p8No9XoA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba8832776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 55968,
+            "mimeType": "text/css"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": true,
+        "timings": {
+          "blocked": 5.106000094853342,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 4.127999999999999,
+          "receive": 2.6069999439641833,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "link",
+                "scriptId": "10",
+                "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/js/dist/blue-local-front.js?ver=3.3.1",
+                "lineNumber": 5,
+                "columnNumber": 68376
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "xhr"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.856Z",
+        "time": 11.765999952331185,
+        "request": {
+          "method": "GET",
+          "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/css/font-awesome-four/font-awesome.min.css",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:32 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "REVALIDATED"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 15 Nov 2023 14:05:23 GMT"
+            },
+            {
+              "name": "nel",
+              "value": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "etag",
+              "value": "W/\"6554d023-7918\""
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=rwwPnSpHjMEHD9qHc4ouNU0tL73E8h2uCsJNQYGPtlaFwnRYbYnOmK%2BtWzOHItmtHiLvLHgWztP7oBeg1yYlY0M072RY5t88sqDpT40Fi1d9PpHL09R2N4Nl6W9gMy0AqmNxsQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+            },
+            {
+              "name": "content-type",
+              "value": "text/css"
+            },
+            {
+              "name": "cache-control",
+              "value": "max-age=14400"
+            },
+            {
+              "name": "cf-ray",
+              "value": "85656cba8834776e-LHR"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 31000,
+            "mimeType": "text/css"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": true,
+        "timings": {
+          "blocked": 5.061999939344823,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 5.294,
+          "receive": 1.4100000262260437,
+          "ssl": -1
+        },
+        "serverIPAddress": "172.67.146.175",
+        "connection": "0",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "link",
+                "scriptId": "10",
+                "url": "https://mncenterforms.com/wp-content/themes/blue-local-theme/js/dist/blue-local-front.js?ver=3.3.1",
+                "lineNumber": 5,
+                "columnNumber": 68376
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "xhr"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:32.869Z",
+        "time": 169.4649999262765,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i%7CMuli:400,400i,700,700i",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "family",
+              "value": "Source Sans Pro:400,400i,700,700i|Muli:400,400i,700,700i"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "allow",
+              "value": "HEAD, GET"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+              "name": "content-length",
+              "value": "0"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html; charset=utf-8"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin-allow-popups"
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Mon, 01 Jan 1990 00:00:00 GMT"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "server",
+              "value": "ESF"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-frame-options",
+              "value": "SAMEORIGIN"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "text/html"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": -0.869,
+          "dns": 0.0040000000000000036,
+          "connect": 134.429,
+          "send": 0.6189999999999998,
+          "wait": 41.31100000000001,
+          "receive": 0.7829999085515738,
+          "ssl": 110.50999999999999
+        },
+        "serverIPAddress": "142.250.200.10",
+        "connection": "250",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i%7CMuli:400,400i,700,700i",
+          "requestId": "597.89"
+        },
+        "_priority": "High",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:33.241Z",
+        "time": 81.25599997583777,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://www.gstatic.com/recaptcha/releases/yiNW3R9jkyLVP5-EEZLDzUtA/recaptcha__en.js",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h2",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "cache-control",
+              "value": "public, max-age=31536000"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-length",
+              "value": "198909"
+            },
+            {
+              "name": "content-security-policy-report-only",
+              "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/recaptcha"
+            },
+            {
+              "name": "content-type",
+              "value": "text/javascript"
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin-allow-popups; report-to=\"recaptcha\""
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Sat, 15 Feb 2025 11:24:33 GMT"
+            },
+            {
+              "name": "last-modified",
+              "value": "Mon, 12 Feb 2024 03:00:37 GMT"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/recaptcha\"}]}"
+            },
+            {
+              "name": "server",
+              "value": "sffe"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-xss-protection",
+              "value": "0"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "text/javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 1.8050000000000002,
+          "dns": 0.009999999999999787,
+          "connect": 45.81,
+          "send": 0.09000000000000341,
+          "wait": 31.677999999999997,
+          "receive": 1.3339999131858349,
+          "ssl": 19.278
+        },
+        "serverIPAddress": "216.58.204.67",
+        "connection": "304",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://www.gstatic.com/recaptcha/releases/yiNW3R9jkyLVP5-EEZLDzUtA/recaptcha__en.js",
+          "requestId": "597.99"
+        },
+        "_priority": "Low",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:33.661Z",
+        "time": 144.88899998832494,
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://connect.facebook.net/en_US/sdk.js?hash=e83d93ac3fa1e153d75f3130b001c7c4",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "powered-by"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "GET"
+            },
+            {
+              "name": "Origin",
+              "value": "https://mncenterforms.com"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "hash",
+              "value": "e83d93ac3fa1e153d75f3130b001c7c4"
+            }
+          ],
+          "headersSize": -1,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "h3",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-FB-Content-MD5"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=86400"
+            },
+            {
+              "name": "cache-control",
+              "value": "public,max-age=31536000,stale-while-revalidate=3600,immutable"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "content-length",
+              "value": "87950"
+            },
+            {
+              "name": "content-md5",
+              "value": "CkjWu9LR+3GBlCJBkwclyg=="
+            },
+            {
+              "name": "content-type",
+              "value": "application/x-javascript; charset=utf-8"
+            },
+            {
+              "name": "cross-origin-embedder-policy-report-only",
+              "value": "require-corp;report-to=\"coep_report\""
+            },
+            {
+              "name": "cross-origin-opener-policy",
+              "value": "same-origin-allow-popups;report-to=\"coop_report\""
+            },
+            {
+              "name": "cross-origin-resource-policy",
+              "value": "cross-origin"
+            },
+            {
+              "name": "date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "document-policy",
+              "value": "force-load-at-top"
+            },
+            {
+              "name": "etag",
+              "value": "\"c53bf034afa739e4d074a9912cc6a578\""
+            },
+            {
+              "name": "expires",
+              "value": "Sat, 15 Feb 2025 11:24:33 GMT"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "accelerometer=(), ambient-light-sensor=(), autoplay=(), bluetooth=(), camera=(), display-capture=(), encrypted-media=(), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+              "name": "permissions-policy-report-only",
+              "value": "clipboard-read=(), clipboard-write=(), encrypted-media=(), fullscreen=(), picture-in-picture=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+              "name": "priority",
+              "value": "u=3,i"
+            },
+            {
+              "name": "report-to",
+              "value": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coop\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/browser_reporting\\/coep\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\/\\/www.facebook.com\\/ajax\\/browser_error_reports\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+              "name": "reporting-endpoints",
+              "value": "coop_report=\"https://www.facebook.com/browser_reporting/coop/?minimize=0\", coep_report=\"https://www.facebook.com/browser_reporting/coep/?minimize=0\", permissions_policy=\"https://www.facebook.com/ajax/browser_error_reports/\""
+            },
+            {
+              "name": "strict-transport-security",
+              "value": "max-age=31536000; preload; includeSubDomains"
+            },
+            {
+              "name": "timing-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-content-type-options",
+              "value": "nosniff"
+            },
+            {
+              "name": "x-fb-content-md5",
+              "value": "608084c5a6a2dc766e68e8f3a3e96450"
+            },
+            {
+              "name": "x-fb-debug",
+              "value": "ula9PeDGTFSvrullnJUqb/z+3Z3Bp1OBNLfW56t/V+suulFpALIed7rNmxyV/r36CKYNqW5zLAUMCfMHZiBLGw=="
+            },
+            {
+              "name": "x-frame-options",
+              "value": "DENY"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "content": {
+            "size": 0,
+            "mimeType": "application/x-javascript"
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": -0.837,
+          "dns": 0.18299999999999997,
+          "connect": 16.164,
+          "send": 0.21199999999999974,
+          "wait": 131.112,
+          "receive": 1.8500000005587935,
+          "ssl": 15.966999999999999
+        },
+        "serverIPAddress": "163.70.151.21",
+        "connection": "0",
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://connect.facebook.net/en_US/sdk.js?hash=e83d93ac3fa1e153d75f3130b001c7c4",
+          "requestId": "597.115"
+        },
+        "_priority": "Low",
+        "_resourceType": "other"
+      },
+      {
+        "pageref": "page_1_47975765943636506",
+        "startedDateTime": "2024-02-16T11:24:33.719Z",
+        "time": 9.812999982386827,
+        "request": {
+          "method": "GET",
+          "url": "https://platform.twitter.com/widgets/widget_iframe.2f70fb173b9000da126c79afe2098f02.html?origin=https%3A%2F%2Fmncenterforms.com",
+          "httpVersion": "http/1.1",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "DNT",
+              "value": "1"
+            },
+            {
+              "name": "Powered-By",
+              "value": "statuscake.com_pagespeed"
+            },
+            {
+              "name": "Referer",
+              "value": "https://mncenterforms.com/"
+            },
+            {
+              "name": "Upgrade-Insecure-Requests",
+              "value": "1"
+            },
+            {
+              "name": "User-Agent",
+              "value": "StatusCake_Pagespeed_Indev"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "origin",
+              "value": "https://mncenterforms.com"
+            }
+          ],
+          "headersSize": 298,
+          "bodySize": -1
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "cookies": [],
+          "headers": [
+            {
+              "name": "Access-Control-Allow-Methods",
+              "value": "GET"
+            },
+            {
+              "name": "Access-Control-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Age",
+              "value": "5767380"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "public, max-age=315360000"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Content-Length",
+              "value": "105429"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html; charset=utf-8"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 16 Feb 2024 11:24:33 GMT"
+            },
+            {
+              "name": "Etag",
+              "value": "\"81267302efdfb3e4524a22631a8fc99e+gzip\""
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Mon, 11 Dec 2023 17:19:49 GMT"
+            },
+            {
+              "name": "P3P",
+              "value": "CP=\"CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV INT\""
+            },
+            {
+              "name": "Server",
+              "value": "ECS (lhd/359E)"
+            },
+            {
+              "name": "Server-Timing",
+              "value": "x-cache;desc= HIT,x-tw-cdn;desc=VZ"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "X-Cache",
+              "value": "HIT"
+            },
+            {
+              "name": "x-amz-server-side-encryption",
+              "value": "AES256"
+            },
+            {
+              "name": "x-tw-cdn",
+              "value": "VZ"
+            }
+          ],
+          "redirectURL": "",
+          "headersSize": 615,
+          "bodySize": 105429,
+          "_transferSize": 106044,
+          "content": {
+            "size": 327164,
+            "mimeType": "text/html",
+            "compression": 221735
+          }
+        },
+        "cache": {},
+        "_fromDiskCache": false,
+        "timings": {
+          "blocked": 1.8980000401213766,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.07700000000000001,
+          "wait": 4.654999999999999,
+          "receive": 3.182999906130135,
+          "ssl": -1
+        },
+        "serverIPAddress": "192.229.233.25",
+        "connection": "292",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "load",
+                "scriptId": "17",
+                "url": "https://platform.twitter.com/widgets.js",
+                "lineNumber": 7,
+                "columnNumber": 36291
+              }
+            ]
+          }
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "document"
+      }
+    ]
+  }
+}
